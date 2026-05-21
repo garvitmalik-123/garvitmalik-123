@@ -44,9 +44,8 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Nunito&ext=heatmap&cache=1"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
