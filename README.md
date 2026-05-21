@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Garvit Malik</h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
+<h3 align="center">🚀 Java Backend Developer | Spring Boot Learner | Problem Solver</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Cool+Projects+🚀" />
 </p>
 
 ---
 
-## 💼 Profile Summary
+## 💫 About Me
 
-I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
-
-- 🌱 Currently learning **Spring Boot, Microservices & System Design**
-- 💻 Building real-world backend projects using **Java + Spring Boot + MySQL**
-- ⚡ Strong interest in **Data Structures & Algorithms**
-- 🚀 Exploring **Kafka, Redis, Docker, and distributed systems**
-- 🎯 Goal: Become a strong **Backend Engineer in a product-based company**
+- 🌱 Currently learning **Spring Boot & System Design**
+- 💻 Building Java Backend Projects
+- ⚡ Love solving DSA problems
+- 🚀 Exploring Real World Development
 
 ---
 
@@ -24,7 +23,8 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode,idea" />
+<!-- SAFE VERSION (no broken icons) -->
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
 
 </p>
 
@@ -42,11 +42,10 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 ---
 
-## 🧠 Coding Profiles
+## 🧠 LeetCode Stats
 
-### 🔹 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ---
@@ -54,29 +53,13 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 🚀 Featured Projects
 
 ### 💬 Multi-Client Chat Application
-- Java Socket Programming based real-time system  
-- Multi-client architecture with threading  
-- LAN-based communication system  
+Java Socket Programming based real-time LAN chat application.
 
 ### 🛒 E-Commerce Backend
-- Spring Boot + MySQL REST APIs  
-- Authentication & role-based system  
-- Clean layered architecture  
+Spring Boot + MySQL based backend project.
 
 ### 🤖 AI Mock Interview System
-- AI-based interview preparation platform  
-- Resume analysis + feedback system  
-- Smart question generation  
-
----
-
-## 📌 Core Strengths
-
-- Problem Solving (DSA)
-- Backend System Design
-- REST API Development
-- Database Design (MySQL)
-- Learning Distributed Systems
+AI-powered interview preparation platform.
 
 ---
 
@@ -85,11 +68,11 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 <p align="center">
 
 <a href="https://github.com/garvitmalik-123">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -97,5 +80,7 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ---
 
 <p align="center">
-  ✨ Code. Build. Scale. Repeat. ✨
+
+✨ “Code. Learn. Build. Repeat.” ✨
+
 </p>
