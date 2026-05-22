@@ -40,6 +40,13 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
 
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/garvitmalik-123/garvitmalik-123/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
