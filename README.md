@@ -1,109 +1,186 @@
-<h1 align="center">Hi 👋, I'm Garvit Malik</h1>
+# 💬 Java GUI Multi-Client Chat Application
 
-<h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
-</p>
+![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)
+![Java Swing](https://img.shields.io/badge/Java-Swing-blue?style=for-the-badge)
+![Socket Programming](https://img.shields.io/badge/Socket-Programming-success?style=for-the-badge)
+![GUI Application](https://img.shields.io/badge/Desktop-GUI-purple?style=for-the-badge)
 
----
+### 🚀 Real-Time GUI Based Chat System using Java Swing & Socket Programming
 
-## 💼 Profile Summary
+*A modern multi-client desktop chat application with real-time messaging, private chats, colorful UI and LAN support.*
 
-I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
-
-- 🌱 Currently learning **Spring Boot, Microservices & System Design**
-- 💻 Building real-world backend projects using **Java + Spring Boot + MySQL**
-- ⚡ Strong interest in **Data Structures & Algorithms**
-- 🚀 Exploring **Kafka, Redis, Docker, and distributed systems**
-- 🎯 Goal: Become a strong **Backend Engineer in a product-based company**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# ✨ Features
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<!-- FIXED VERSION (more stable + works on GitHub) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
-
-</p>
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/garvitmalik-123/garvitmalik-123/blob/output/snake.svg" alt="Snake animation" />
-</p>
+✅ Real-time messaging  
+✅ GUI based desktop application  
+✅ Multi-client support  
+✅ Private messaging system  
+✅ Online users list  
+✅ Chat history support  
+✅ Beautiful Java Swing interface  
+✅ LAN based communication  
+✅ Multi-threaded architecture  
+✅ Clean modular code structure  
 
 ---
 
-## 🧠 Coding Profiles
+# 📸 Application Preview
 
-### 🔹 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 💬 Multi-Client Chat Application
-- Java Socket Programming based real-time system  
-- Multi-client architecture with threading  
-- LAN-based communication system  
-
-### 🛒 E-Commerce Backend
-- Spring Boot + MySQL REST APIs  
-- Authentication & role-based system  
-- Clean layered architecture  
-
-### 🤖 AI Mock Interview System
-- AI-based interview preparation platform  
-- Resume analysis + feedback system  
-- Smart question generation  
+```text
+╔══════════════════════════════════════════════╗
+║           JAVA CHAT APPLICATION              ║
+╠══════════════════════════════════════════════╣
+║ [Online Users]        [ Chat Window ]        ║
+║                                              ║
+║ Garvit  ●                                     
+║ Aryan   ●          Garvit >> Hello!          
+║ Rahul   ●          Aryan  >> Hi Bro 👋       
+║                                              ║
+╠══════════════════════════════════════════════╣
+║ Message: __________________________ [Send]   ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
-## 📌 Core Strengths
+# 🛠️ Tech Stack
 
-- Problem Solving (DSA)
-- Backend System Design
-- REST API Development
-- Database Design (MySQL)
-- Learning Distributed Systems
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/garvitmalik-123">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+| Technology | Usage |
+|------------|-------|
+| Java | Core Programming |
+| Java Swing | GUI Design |
+| Socket Programming | Client-Server Communication |
+| Multithreading | Handle Multiple Clients |
+| TCP/IP | Network Communication |
+| Java Collections | User Management |
 
 ---
 
-<p align="center">
-  ✨ Code. Build. Scale. Repeat. ✨
-</p>yeh hai meri fiike isme apne aap snake vala add krde
+# 📂 Project Structure
+
+```bash
+project_2/
+│
+├── Main.java
+├── ChatServer.java
+├── ChatClientGUI.java
+├── ClientHandler.java
+├── ServerGUI.java
+└── ChatHistory.txt
+```
+
+---
+
+# ⚡ Features Breakdown
+
+| Feature | Description |
+|---------|-------------|
+| Real-Time Chat | Instant messaging between clients |
+| GUI Interface | Modern desktop UI using Swing |
+| Multi Client | Multiple users can connect simultaneously |
+| Private Messaging | Send messages to specific users |
+| Online Users | Live active users list |
+| Chat History | Stores previous conversations |
+| LAN Support | Works across same WiFi/network |
+
+---
+
+# 🚀 How To Run
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/garvitmalik-123/your-repo-name.git
+cd your-repo-name
+```
+
+---
+
+## 2️⃣ Compile Project
+
+```bash
+javac project_2/*.java
+```
+
+---
+
+## 3️⃣ Start Server
+
+```bash
+java project_2.ChatServer
+```
+
+---
+
+## 4️⃣ Start GUI Client
+
+```bash
+java project_2.ChatClientGUI
+```
+
+---
+
+# 🌐 LAN Connectivity
+
+Users connected on the same WiFi/LAN can communicate easily.
+
+### Steps:
+1. Start server on one system
+2. Find server IP
+3. Enter IP in GUI client
+4. Connect and start chatting
+
+---
+
+# 🧠 Core Concepts Used
+
+- Socket Programming
+- Java Swing GUI
+- Event Handling
+- Multithreading
+- TCP Communication
+- Client-Server Architecture
+- Exception Handling
+- File Handling
+
+---
+
+# 🎯 Future Enhancements
+
+- Dark Mode UI 🌙
+- Emoji Support 😄
+- File Sharing 📁
+- Voice Chat 🎤
+- Database Integration 🛢️
+- Authentication System 🔐
+- Docker Deployment 🐳
+- Cloud Hosting ☁️
+
+---
+
+# 👨‍💻 Author
+
+## Garvit Malik
+
+💡 Passionate about Backend Development, Java Engineering & System Design.
+
+### Connect With Me
+
+- GitHub: https://github.com/garvitmalik-123
+- LinkedIn: Add your LinkedIn here
+
+---
+
+<div align="center">
+
+## ⭐ Star This Repository If You Liked It ⭐
+
+### 🚀 Build. Learn. Repeat.
+
+</div>
