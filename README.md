@@ -1,6 +1,3 @@
-# GitHub Profile README
-
-```md
 <h1 align="center">Hi 👋, I'm Garvit Malik</h1>
 
 <h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
@@ -37,18 +34,11 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 <p align="center">
 
+<!-- FIXED VERSION (more stable + works on GitHub) -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/garvitmalik-123/garvitmalik-123/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -109,5 +99,4 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 <p align="center">
   ✨ Code. Build. Scale. Repeat. ✨
-</p>
-```
+</p>yeh hai meri fiike isme apne aap snake vala add krde
