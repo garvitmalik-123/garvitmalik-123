@@ -10,6 +10,11 @@
 
 ## 💼 Profile Summary
 
+<table>
+<tr>
+
+<td width="60%">
+
 I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
 
 - 🌱 Currently learning **Spring Boot, Microservices & System Design**
@@ -18,14 +23,23 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 - 🚀 Exploring **Kafka, Redis, Docker, and distributed systems**
 - 🎯 Goal: Become a strong **Backend Engineer in a product-based company**
 
+</td>
+
+<td width="40%">
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
 </p>
 
 ---
@@ -34,8 +48,7 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 <p align="center">
 
-<!-- FIXED VERSION (more stable + works on GitHub) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
 
@@ -43,9 +56,8 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 ---
 
-## 🧠 Coding Profiles
+## 🧠 LeetCode Progress
 
-### 🔹 LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </p>
@@ -90,13 +102,29 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Garvitmalik-123">
+<img src="https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+## 💡 Developer Mindset
+
+```java
+while(true) {
+    learn();
+    build();
+    improve();
+}
+```
+
 <p align="center">
-  ✨ Code. Build. Scale. Repeat. ✨
+  ✨ Code • Build • Scale • Repeat ✨
 </p>
+
+---
