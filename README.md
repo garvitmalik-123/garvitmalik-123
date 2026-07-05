@@ -67,19 +67,22 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 🚀 Featured Projects
 
 ### 💬 Multi-Client Chat Application
-- Java Socket Programming based real-time system  
-- Multi-client architecture with threading  
-- LAN-based communication system  
+- Java Socket Programming based real-time chat system
+- Multi-client architecture using multithreading
+- LAN-based communication
+- Client-Server architecture
 
-### 🛒 E-Commerce Backend
-- Spring Boot + MySQL REST APIs  
-- Authentication & role-based system  
-- Clean layered architecture  
+### 🛒 LuxMart E-Commerce Backend
+- Spring Boot + MySQL REST APIs
+- JWT Authentication & Role-Based Authorization
+- Secure APIs using Spring Security
+- CRUD Operations with clean layered architecture
 
-### 🤖 AI Mock Interview System
-- AI-based interview preparation platform  
-- Resume analysis + feedback system  
-- Smart question generation  
+### 🤖 AI Assignment Generator
+- AI-powered assignment generation platform
+- Topic-based smart content generation
+- REST API integration with AI services
+- Clean, responsive and user-friendly interface
 
 ---
 
