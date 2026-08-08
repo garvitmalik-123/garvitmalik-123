@@ -18,7 +18,7 @@
 I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
 
 - 🌱 Currently learning **Spring Boot, Microservices & System Design**
-- 💻 Building real-world backend projects using **Java + Spring Boot + MySQL**
+- 💻 Building real-world backend projects using **Java + Spring Boot + MySQL + MongoDB**
 - ⚡ Strong interest in **Data Structures & Algorithms**
 - 🚀 Exploring **Kafka, Redis, Docker, and distributed systems**
 - 🎯 Goal: Become a strong **Backend Engineer in a product-based company**
