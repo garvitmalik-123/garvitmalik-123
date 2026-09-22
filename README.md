@@ -1,133 +1,129 @@
-\<h1 align="center">Hi 👋, I'm Garvit Malik\</h1>
+<h1 align="center">Hi 👋, I'm Garvit Malik</h1>
 
-\<h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast\</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
 
-\<p align="center">
-  \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=650\&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems)" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
+</p>
 
-\---
+---
 
-\## 💼 Profile Summary
+## 💼 Profile Summary
 
-\<table>
-\<tr>
+<table>
+<tr>
 
-\<td width="60%">
+<td width="60%">
 
-I am a \*\*Java Backend Developer\*\* focused on building scalable and production-ready backend systems.
+I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
 
-\- 🌱 Currently learning \*\*Spring Boot, Microservices & System Design\*\*
-\- 💻 Building real-world backend projects using \*\*Java + Spring Boot + MySQL + MongoDB\*\*
-\- ⚡ Strong interest in \*\*Data Structures & Algorithms\*\*
-\- 🚀 Exploring \*\*Kafka, Redis, Docker, and distributed systems\*\*
-\- 🎯 Goal: Become a strong \*\*Backend Engineer in a product-based company\*\*
+- 🌱 Currently learning **Spring Boot, Microservices & System Design**
+- 💻 Building real-world backend projects using **Java + Spring Boot + MySQL + MongoDB**
+- ⚡ Strong interest in **Data Structures & Algorithms**
+- 🚀 Exploring **Kafka, Redis, Docker, and distributed systems**
+- 🎯 Goal: Become a strong **Backend Engineer in a product-based company**
 
-\</td>
+</td>
 
-\<td width="40%">
+<td width="40%">
 
-\<img align="right" alt="Coding" width="320" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-\</td>
+</td>
 
-\</tr>
-\</table>
+</tr>
+</table>
 
-\---
+---
 
-\## 🛠 Tech Stack
+## 🛠 Tech Stack
 
-\<p align="center">
-  \<img src="[https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode](https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
+</p>
 
-\---
+---
 
-\## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-\<p align="center">
+<p align="center">
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=garvitmalik-123\&show_icons=true\&theme=radical\&hide_border=true)"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true"/>
 
-\<img height="170" src="[https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123\&theme=radical\&hide_border=true)"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
 
-\</p>
+</p>
 
-\---
+---
 
-\## 🧠 LeetCode Progress
+## 🧠 LeetCode Progress
 
-\<p align="center">
-  \<img src="[https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap](https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark\&font=Fira%20Code\&ext=heatmap)"/>
-\</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</p>
 
-\---
+---
 
-\## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-\### 💬 Multi-Client Chat Application
-\- Java Socket Programming based real-time chat system
-\- Multi-client architecture using multithreading
-\- LAN-based communication
-\- Client-Server architecture
+### 💬 Multi-Client Chat Application
 
-\### 🛒 LuxMart E-Commerce Backend
-\- Spring Boot + MySQL REST APIs
-\- JWT Authentication & Role-Based Authorization
-\- Secure APIs using Spring Security
-\- CRUD Operations with clean layered architecture
+- Java Socket Programming based real-time chat system
+- Multi-client architecture using multithreading
+- LAN-based communication
+- Client-Server architecture
 
-\### 🤖 AI Assignment Generator
-\- AI-powered assignment generation platform
-\- Topic-based smart content generation
-\- REST API integration with AI services
-\- Clean, responsive and user-friendly interface
+### 🛒 LuxMart E-Commerce Backend
 
-\---
+- Spring Boot + MySQL REST APIs
+- JWT Authentication & Role-Based Authorization
+- Secure APIs using Spring Security
+- CRUD Operations with clean layered architecture
 
-\## 📌 Core Strengths
+### 🤖 AI Assignment Generator
 
-\- Problem Solving (DSA)
-\- Backend System Design
-\- REST API Development
-\- Database Design (MySQL)
-\- Learning Distributed Systems
+- AI-powered assignment generation platform
+- Topic-based smart content generation
+- REST API integration with AI services
+- Clean, responsive and user-friendly interface
 
-\---
+---
 
-\## 🌐 Connect With Me
+## 📌 Core Strengths
 
-\<p align="center">
+- Problem Solving (DSA)
+- Backend System Design
+- REST API Development
+- Database Design (MySQL)
+- Learning Distributed Systems
 
-\<a href="[https://github.com/garvitmalik-123](https://github.com/garvitmalik-123)">
-\<img src="[https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+---
 
-\<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)">
-\<img src="[https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+## 🌐 Connect With Me
 
-\<a href="[https://leetcode.com/Garvitmalik-123](https://leetcode.com/Garvitmalik-123)">
-\<img src="[https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge\&logo=leetcode\&logoColor=white)"/>
-\</a>
+<p align="center">
 
-\</p>
+<a href="https://github.com/garvitmalik-123">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\---
+<a href="https://linkedin.com/in/garvit-malik-517ab4425/">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\## 💡 Developer Mindset
+<a href="https://leetcode.com/u/Garvitmalik-123/">
+  <img src="https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-\`\`\`java
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+```java
 while(true) {
     learn();
     build();
     improve();
 }
-\`\`\`
-
-\<p align="center">
-  ✨ Code • Build • Scale • Repeat ✨
-\</p>
-
-\---      isko update krde aesthetic bnade content same diyo contribution graph vgera sbb add krde
