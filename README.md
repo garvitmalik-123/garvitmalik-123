@@ -3,7 +3,12 @@
 <h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=garvitmalik-123&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/garvitmalik-123?label=Followers&style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
@@ -12,7 +17,6 @@
 
 <table>
 <tr>
-
 <td width="60%">
 
 I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
@@ -25,33 +29,58 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
+### 💻 Backend & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,redis,kafka" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=garvitmalik-123&theme=radical&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitmalik-123&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
+---
 
+## 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvitmalik-123&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=garvitmalik-123&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
 </p>
 
 ---
@@ -59,7 +88,13 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap" width="500" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Garvitmalik-123/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -67,18 +102,21 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 🚀 Featured Projects
 
 ### 💬 Multi-Client Chat Application
+
 - Java Socket Programming based real-time chat system
 - Multi-client architecture using multithreading
 - LAN-based communication
 - Client-Server architecture
 
 ### 🛒 LuxMart E-Commerce Backend
+
 - Spring Boot + MySQL REST APIs
 - JWT Authentication & Role-Based Authorization
 - Secure APIs using Spring Security
 - CRUD Operations with clean layered architecture
 
 ### 🤖 AI Assignment Generator
+
 - AI-powered assignment generation platform
 - Topic-based smart content generation
 - REST API integration with AI services
@@ -88,11 +126,15 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 ## 📌 Core Strengths
 
-- Problem Solving (DSA)
-- Backend System Design
-- REST API Development
-- Database Design (MySQL)
-- Learning Distributed Systems
+| Area | Focus |
+|---|---|
+| 🧠 Problem Solving | DSA & Problem Solving |
+| ⚙️ Backend | Java + Spring Boot |
+| 🔐 Security | JWT & Spring Security |
+| 🌐 APIs | REST API Development |
+| 🗄️ Databases | MySQL & MongoDB |
+| 📐 Architecture | System Design |
+| 🚀 Distributed Systems | Kafka, Redis & Docker |
 
 ---
 
@@ -101,15 +143,15 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 <p align="center">
 
 <a href="https://github.com/garvitmalik-123">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/garvit-malik-517ab4425/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/Garvitmalik-123">
-<img src="https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Garvitmalik-123/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </p>
@@ -119,7 +161,7 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 💡 Developer Mindset
 
 ```java
-while(true) {
+while (true) {
     learn();
     build();
     improve();
@@ -127,7 +169,15 @@ while(true) {
 ```
 
 <p align="center">
-  ✨ Code • Build • Scale • Repeat ✨
+  ✨ <b>Code • Build • Scale • Repeat</b> ✨
 </p>
 
 ---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
