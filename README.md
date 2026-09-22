@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Garvit Malik</h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
+<h3 align="center">
+  Java Backend Developer | Spring Boot | System Design Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
@@ -8,7 +10,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=garvitmalik-123&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/garvitmalik-123?label=Followers&style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
@@ -43,13 +44,13 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 
 ### 💻 Backend & Programming
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,redis,kafka" />
 </p>
 
 ### ⚙️ Tools & Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
 </p>
 
@@ -58,13 +59,15 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://streak-stats.demolab.com?user=garvitmalik-123&theme=radical&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitmalik-123&layout=compact&theme=radical&hide_border=true" />
+
+  <img src="https://streak-stats.demolab.com/?user=garvitmalik-123&theme=radical&hide_border=true" />
+
 </p>
 
 ---
@@ -72,15 +75,9 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 🔥 GitHub Contribution Graph
 
 <p align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvitmalik-123&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=garvitmalik-123&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
 </p>
 
 ---
@@ -88,13 +85,17 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 🧠 LeetCode Progress
 
 <p align="center">
+
   <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap" width="500" />
+
 </p>
 
 <p align="center">
+
   <a href="https://leetcode.com/u/Garvitmalik-123/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
 </p>
 
 ---
@@ -166,18 +167,3 @@ while (true) {
     build();
     improve();
 }
-```
-
-<p align="center">
-  ✨ <b>Code • Build • Scale • Repeat</b> ✨
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
