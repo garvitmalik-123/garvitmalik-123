@@ -3,43 +3,32 @@
 <h3 align="center">Java Backend Developer | Spring Boot | System Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;DSA+Problem+Solver;Building+Scalable+Systems&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 💼 Profile Summary
+## 🚀 About Me
 
-<table>
-<tr>
-
-<td width="60%">
-
-I am a **Java Backend Developer** focused on building scalable and production-ready backend systems.
-
+- 💻 Java Backend Developer focused on building scalable and production-ready backend systems
 - 🌱 Currently learning **Spring Boot, Microservices & System Design**
-- 💻 Building real-world backend projects using **Java + Spring Boot + MySQL + MongoDB**
-- ⚡ Strong interest in **Data Structures & Algorithms**
-- 🚀 Exploring **Kafka, Redis, Docker, and distributed systems**
-- 🎯 Goal: Become a strong **Backend Engineer in a product-based company**
-
-</td>
-
-<td width="40%">
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</td>
-
-</tr>
-</table>
+- 🛠️ Building projects using **Java + Spring Boot + MySQL + MongoDB**
+- 🧠 Solving **DSA problems** and improving problem-solving skills
+- ⚡ Exploring **Kafka, Redis, Docker & Distributed Systems**
+- 🎯 Goal: Become a **Product-Based Company Backend Engineer**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,git,github,vscode" />
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,docker" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman" />
 </p>
 
 ---
@@ -47,83 +36,85 @@ I am a **Java Backend Developer** focused on building scalable and production-re
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=garvitmalik-123&theme=radical&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=radical&hide_border=true" />
 </p>
-
----
-
-## 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Fira%20Code&ext=heatmap"/>
+  <img src="https://streak-stats.demolab.com/?user=garvitmalik-123&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/garvitmalik-123/garvitmalik-123/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📌 Projects
 
 ### 💬 Multi-Client Chat Application
-
-- Java Socket Programming based real-time chat system
-- Multi-client architecture using multithreading
-- LAN-based communication
-- Client-Server architecture
+- Real-time multi-client communication
+- Backend-focused Java application
+- Socket-based communication
 
 ### 🛒 LuxMart E-Commerce Backend
-
-- Spring Boot + MySQL REST APIs
-- JWT Authentication & Role-Based Authorization
-- Secure APIs using Spring Security
-- CRUD Operations with clean layered architecture
+- REST APIs using Spring Boot
+- JWT Authentication & Spring Security
+- Product, Cart, Order & Payment management
+- MySQL database integration
 
 ### 🤖 AI Assignment Generator
-
-- AI-powered assignment generation platform
-- Topic-based smart content generation
-- REST API integration with AI services
-- Clean, responsive and user-friendly interface
+- AI-powered assignment generation
+- Backend APIs using Spring Boot
+- Designed for scalable integration with AI services
 
 ---
 
-## 📌 Core Strengths
+## 💡 Core Strengths
 
-- Problem Solving (DSA)
-- Backend System Design
-- REST API Development
-- Database Design (MySQL)
-- Learning Distributed Systems
+- 🧠 Problem Solving — DSA
+- 🏗️ Backend System Design
+- 🔗 REST API Development
+- 🗄️ Database Design — MySQL
+- 🌐 Learning Distributed Systems
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
+  <a href="https://github.com/garvitmalik-123">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
 
-<a href="https://github.com/garvitmalik-123">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/garvit-malik-517ab4425/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
 
-<a href="https://linkedin.com/in/garvit-malik-517ab4425/">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Garvitmalik-123/">
-  <img src="https://img.shields.io/badge/LeetCode-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/u/Garvitmalik-123/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Developer Mindset
+## 👨‍💻 Developer Mindset
 
 ```java
-while(true) {
-    learn();
-    build();
-    improve();
+while (true) {
+    Learn();
+    Build();
+    Solve();
+    Improve();
 }
