@@ -1,201 +1,187 @@
-<h1 align="center">Garvit Malik</h1>
+# Garvit Malik
 
-<h3 align="center">Java Backend Developer &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; LLD &amp; System Design</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | LLD & System Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&height=40&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+MySQL+%7C+MongoDB;DSA+%26+Problem+Solving;LLD+%7C+OOP+%7C+SOLID+%7C+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+MongoDB;DSA+%26+Problem+Solving;LLD+%7C+SOLID+%7C+Design+Patterns;Exploring+HLD+%26+Event-Driven+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/garvitmalik-123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/garvit-malik-517ab4425/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Garvitmalik-123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:garvitmalik275@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/garvitmalik-123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/garvit-malik-517ab4425/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Garvitmalik-123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:garvitmalik275@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-| | |
-|---|---|
-| 💻 **Focus** | Building scalable, production-ready backend systems |
-| 🌱 **Learning** | Spring Boot, Microservices, LLD & System Design |
-| 🛠️ **Building** | Java + Spring Boot + MySQL + MongoDB |
-| 🧠 **Practicing** | DSA, OOP, SOLID Principles & Design Patterns |
-| ⚡ **Exploring** | Kafka, Redis, Docker & Distributed Systems |
-| 🎯 **Goal** | Backend Engineer at a Product-Based Company |
+I'm a Computer Science student focused on Java backend development and building maintainable, scalable applications.
+
+* 💻 **Core Stack:** Java, Spring Boot, REST APIs and MongoDB
+* 🏗️ **Designing:** Low-Level Design, SOLID principles and design patterns
+* 🧠 **Practicing:** Data Structures & Algorithms and problem solving
+* 📚 **Currently Learning:** High-Level Design and Event-Driven Architecture
+* ⚙️ **Exploring:** Kafka, Redis, Docker and distributed systems
+* 🎯 **Goal:** Become a Backend Engineer at a product-based company
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,docker,git,github,vscode,idea,maven,postman&perline=13" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,docker,git,github,maven,postman,idea,vscode&perline=7" alt="Tech Stack" />
 </p>
 
----
-
-## 🧠 LLD & System Design
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📐 Object-Oriented Programming</h4>
-      <img src="https://img.shields.io/badge/Encapsulation-203a43?style=flat-square" />
-      <img src="https://img.shields.io/badge/Inheritance-203a43?style=flat-square" />
-      <img src="https://img.shields.io/badge/Polymorphism-203a43?style=flat-square" />
-      <img src="https://img.shields.io/badge/Abstraction-203a43?style=flat-square" />
-      <img src="https://img.shields.io/badge/Composition%20%26%20Association-203a43?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧱 SOLID Principles</h4>
-      <b>S</b> Single Responsibility<br/>
-      <b>O</b> Open/Closed<br/>
-      <b>L</b> Liskov Substitution<br/>
-      <b>I</b> Interface Segregation<br/>
-      <b>D</b> Dependency Inversion
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🎯 Design Patterns Practiced</h4>
-      • Strategy Pattern<br/>
-      • Simple Factory Pattern<br/>
-      • Factory Method Pattern<br/>
-      • Abstract Factory Pattern
-    </td>
-    <td valign="top">
-      <h4>📝 LLD Concepts</h4>
-      • Class & Object Design<br/>
-      • Interfaces & Abstraction<br/>
-      • Composition over Inheritance<br/>
-      • UML Class & Sequence Diagrams<br/>
-      • Maintainable, reusable components<br/>
-      • Basic Document Editor Design<br/>
-      • Basic Car / Vehicle System Design
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>🎯 Strategy Pattern at a glance</b></summary>
-<br/>
-
-```mermaid
-classDiagram
-    class Vehicle {
-        -DriveStrategy driveStrategy
-        +drive()
-    }
-    class DriveStrategy {
-        <<interface>>
-        +drive()
-    }
-    class NormalDrive
-    class SportsDrive
-    Vehicle o-- DriveStrategy
-    DriveStrategy <|.. NormalDrive
-    DriveStrategy <|.. SportsDrive
-```
-
-</details>
+**Backend:** Java, Spring Boot, Spring Security, REST APIs, JWT
+**Databases:** MongoDB, MySQL
+**Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
+**Exploring:** Apache Kafka, Redis, Docker, Microservices
 
 ---
 
-## 📌 Projects
+## 🧠 Low-Level Design & System Design
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>☁️ <a href="https://github.com/garvitmalik-123/Cloud-Vault-Enterprise-Storage-Application">CloudVault</a></h3>
-      <p>Secure cloud storage app to upload, download, manage and share files with JWT-based auth and protected file access.</p>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>☕ <a href="https://github.com/garvitmalik-123/VelvetBean-Cafe">Velvet Bean Cafe</a></h3>
-      <p>Modern, responsive café website to browse the menu and signature coffee with a smooth, premium UI.</p>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔄 <a href="https://github.com/garvitmalik-123/Skill-Swap">Skill Swap</a></h3>
-      <p>Platform where users exchange skills, learn from each other and earn skill points.</p>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 📐 Object-Oriented Programming
 
-<details>
-<summary><b>🏛️ CloudVault architecture</b></summary>
-<br/>
+* Encapsulation, Inheritance, Polymorphism and Abstraction
+* Association, Aggregation and Composition
+* Interfaces and Composition over Inheritance
 
-```mermaid
-flowchart LR
-    A[React Client] --> B[Spring Security + JWT]
-    B --> C[REST Controllers]
-    C --> D[File Service]
-    D --> E[(MongoDB<br/>Metadata)]
-    D --> F[(MinIO<br/>Object Storage)]
-```
+### 🧱 SOLID Principles
 
-</details>
+* **S** — Single Responsibility Principle
+* **O** — Open/Closed Principle
+* **L** — Liskov Substitution Principle
+* **I** — Interface Segregation Principle
+* **D** — Dependency Inversion Principle
 
----
+### 🎯 Design Patterns Practiced
 
-## 💡 Core Strengths
+* Strategy Pattern
+* Simple Factory Pattern
+* Factory Method Pattern
+* Abstract Factory Pattern
+* Builder Pattern
+* Singleton Pattern
+* Observer Pattern
+* Adapter Pattern
+* Decorator Pattern
+* Facade Pattern
+* Proxy Pattern
+* Composite Pattern
+* Template Method Pattern
+* Command Pattern
+* Chain of Responsibility Pattern
 
-| Area | Focus |
-|------|-------|
-| 🧠 Problem Solving | DSA |
-| 🏗️ Low-Level Design | OOP, SOLID & Design Patterns |
-| 🏢 System Design | Backend architecture |
-| 🔗 API Development | REST, JWT, Spring Security |
-| 🗄️ Databases | MySQL & MongoDB design |
-| 🌐 Learning | Distributed systems |
+### 🏛️ System Design Learning Path
+
+* Client-Server Architecture
+* Monolithic vs Microservices Architecture
+* Vertical vs Horizontal Scaling
+* Load Balancing and Caching
+* Database Indexing and Replication
+* REST APIs and Authentication
+* Message Queues and Event-Driven Architecture
+* Reliability, Availability and Fault Tolerance
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+
+### ☁️ CloudVault — Enterprise Storage Application
+
+A secure cloud-storage application for uploading, downloading, organizing and sharing files.
+
+* JWT-based authentication and protected file access
+* File metadata management with MongoDB
+* Object storage using MinIO
+* React frontend with a Spring Boot backend
+
+**Tech:** Java · Spring Boot · React · MongoDB · MinIO · JWT
+
+[View Repository →](https://github.com/garvitmalik-123/Cloud-Vault-Enterprise-Storage-Application)
+
+### 🔄 Skill Swap — Skill Exchange Platform
+
+A platform where users can exchange skills, discover learning opportunities and participate in a skill-points-based ecosystem.
+
+* User profiles and skill management
+* Course marketplace and enrollment
+* Skill-points wallet and transaction workflows
+* Backend APIs with authentication and authorization
+
+**Tech:** Java 21 · Spring Boot · MongoDB · JWT · REST APIs
+
+[View Repository →](https://github.com/garvitmalik-123/Skill-Swap)
+
+### ☕ Velvet Bean Cafe
+
+A modern café application combining an elegant frontend with backend services for menu and ordering workflows.
+
+* Responsive React interface
+* Spring Boot backend
+* MongoDB integration
+* Stripe test-mode checkout integration
+
+**Tech:** Java · Spring Boot · React · MongoDB · Stripe
+
+[View Repository →](https://github.com/garvitmalik-123/VelvetBean-Cafe)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitmalik-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitmalik-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=garvitmalik-123&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=garvitmalik-123&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
+---
 
 ## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/garvitmalik-123/garvitmalik-123/output/github-contribution-grid-snake.svg" />
+  <a href="https://leetcode.com/u/Garvitmalik-123/">
+    <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Developer Mindset
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/garvitmalik-123/garvitmalik-123/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 💡 Developer Mindset
 
 ```java
-while (true) {
-    Learn();
-    Build();
-    Solve();
-    Design();
-    Improve();
+public class DeveloperJourney {
+
+    public static void main(String[] args) {
+        while (true) {
+            learn();
+            build();
+            solveProblems();
+            designSystems();
+            improve();
+        }
+    }
+
+    static void learn() {}
+    static void build() {}
+    static void solveProblems() {}
+    static void designSystems() {}
+    static void improve() {}
 }
 ```
 
@@ -203,10 +189,11 @@ while (true) {
 
 ## 🤝 Let's Connect
 
+I'm interested in backend engineering, software architecture, open-source projects and learning how scalable systems are built.
+
 <p align="center">
-  <a href="https://github.com/garvitmalik-123"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/garvit-malik-517ab4425/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Garvitmalik-123/"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
+  <a href="https://github.com/garvitmalik-123">GitHub</a> •
+  <a href="https://linkedin.com/in/garvit-malik-517ab4425/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Garvitmalik-123/">LeetCode</a> •
+  <a href="mailto:garvitmalik275@gmail.com">Email</a>
 </p>
