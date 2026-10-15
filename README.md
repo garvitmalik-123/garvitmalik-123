@@ -1,168 +1,245 @@
+ <div align="center">
+
 # Garvit Malik
 
-<h3 align="center">Java Backend Developer | Spring Boot | LLD & System Design</h3>
+### Java Backend Developer · Spring Boot · LLD & System Design
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+MongoDB;DSA+%26+Problem+Solving;LLD+%7C+SOLID+%7C+Design+Patterns;Exploring+HLD+%26+Event-Driven+Architecture" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+MongoDB;DSA+%26+Problem+Solving;LLD+%7C+SOLID+%7C+Design+Patterns;Exploring+HLD+%26+Event-Driven+Architecture" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/garvitmalik-123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/garvit-malik-517ab4425/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Garvitmalik-123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:garvitmalik275@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garvitmalik-123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-malik-517ab4425/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Garvitmalik-123/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garvitmalik275@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=garvitmalik-123&style=flat-square&color=4FC3F7&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science student focused on Java backend development and building maintainable, scalable applications.
+I'm a Computer Science student passionate about **Java backend development, software architecture, and scalable systems**.
 
-* 💻 **Core Stack:** Java, Spring Boot, REST APIs and MongoDB
-* 🏗️ **Designing:** Low-Level Design, SOLID principles and design patterns
-* 🧠 **Practicing:** Data Structures & Algorithms and problem solving
-* 📚 **Currently Learning:** High-Level Design and Event-Driven Architecture
-* ⚙️ **Exploring:** Kafka, Redis, Docker and distributed systems
-* 🎯 **Goal:** Become a Backend Engineer at a product-based company
+- 💻 Building backend applications using Java and Spring Boot.
+- 🏗️ Practicing Low-Level Design, SOLID principles, and design patterns.
+- 🧠 Solving Data Structures and Algorithms problems.
+- 📚 Learning High-Level Design and Event-Driven Architecture.
+- ⚙️ Exploring Kafka, Redis, Docker, and distributed systems.
+- 🎯 Aspiring to become a Backend Engineer at a product-based company.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,docker,git,github,maven,postman,idea,vscode&perline=7" alt="Tech Stack" />
-</p>
+<div align="center">
 
-**Backend:** Java, Spring Boot, Spring Security, REST APIs, JWT
-**Databases:** MongoDB, MySQL
-**Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
-**Exploring:** Apache Kafka, Redis, Docker, Microservices
+### Languages & Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,kafka,docker" />
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+
+</div>
+
+| Category | Technologies |
+|---|---|
+| Languages | Java |
+| Backend | Spring Boot, Spring Security, REST APIs, JWT |
+| Databases | MongoDB, MySQL |
+| Tools | Git, GitHub, Maven, Postman, IntelliJ IDEA |
+| Exploring | Apache Kafka, Redis, Docker, Microservices |
 
 ---
 
 ## 🧠 Low-Level Design & System Design
 
-### 📐 Object-Oriented Programming
+<details>
+<summary><b>📐 Object-Oriented Programming</b></summary>
 
-* Encapsulation, Inheritance, Polymorphism and Abstraction
-* Association, Aggregation and Composition
-* Interfaces and Composition over Inheritance
+- Encapsulation, Inheritance, Polymorphism, Abstraction
+- Association, Aggregation, Composition
+- Interfaces and Composition over Inheritance
 
-### 🧱 SOLID Principles
+</details>
 
-* **S** — Single Responsibility Principle
-* **O** — Open/Closed Principle
-* **L** — Liskov Substitution Principle
-* **I** — Interface Segregation Principle
-* **D** — Dependency Inversion Principle
+<details>
+<summary><b>🧱 SOLID Principles</b></summary>
 
-### 🎯 Design Patterns Practiced
+- **S** — Single Responsibility Principle
+- **O** — Open/Closed Principle
+- **L** — Liskov Substitution Principle
+- **I** — Interface Segregation Principle
+- **D** — Dependency Inversion Principle
 
-* Strategy Pattern
-* Simple Factory Pattern
-* Factory Method Pattern
-* Abstract Factory Pattern
-* Builder Pattern
-* Singleton Pattern
-* Observer Pattern
-* Adapter Pattern
-* Decorator Pattern
-* Facade Pattern
-* Proxy Pattern
-* Composite Pattern
-* Template Method Pattern
-* Command Pattern
-* Chain of Responsibility Pattern
+</details>
 
-### 🏛️ System Design Learning Path
+<details>
+<summary><b>🎯 Design Patterns Practiced</b></summary>
 
-* Client-Server Architecture
-* Monolithic vs Microservices Architecture
-* Vertical vs Horizontal Scaling
-* Load Balancing and Caching
-* Database Indexing and Replication
-* REST APIs and Authentication
-* Message Queues and Event-Driven Architecture
-* Reliability, Availability and Fault Tolerance
+**Creational**
+- Singleton
+- Simple Factory
+- Factory Method
+- Abstract Factory
+- Builder
+
+**Structural**
+- Adapter
+- Decorator
+- Facade
+- Proxy
+- Composite
+
+**Behavioral**
+- Strategy
+- Observer
+- Template Method
+- Command
+- Chain of Responsibility
+
+</details>
+
+<details>
+<summary><b>🏛️ High-Level Design Learning Path</b></summary>
+
+- Client-Server Architecture
+- Monolithic vs Microservices Architecture
+- Vertical vs Horizontal Scaling
+- Load Balancing and Caching
+- Database Indexing and Replication
+- REST APIs and Authentication
+- Message Queues and Event-Driven Architecture
+- Reliability, Availability and Fault Tolerance
+
+</details>
 
 ---
 
 ## 📌 Featured Projects
 
-### ☁️ CloudVault — Enterprise Storage Application
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A secure cloud-storage application for uploading, downloading, organizing and sharing files.
+### ☁️ CloudVault
 
-* JWT-based authentication and protected file access
-* File metadata management with MongoDB
-* Object storage using MinIO
-* React frontend with a Spring Boot backend
+**Enterprise Storage Application**
 
-**Tech:** Java · Spring Boot · React · MongoDB · MinIO · JWT
+A secure file-storage application with upload, download, organization, and sharing capabilities.
 
-[View Repository →](https://github.com/garvitmalik-123/Cloud-Vault-Enterprise-Storage-Application)
+- JWT-based authentication
+- MongoDB file metadata
+- MinIO object storage
+- React + Spring Boot
 
-### 🔄 Skill Swap — Skill Exchange Platform
+**Stack:** Java · Spring Boot · React · MongoDB · MinIO
 
-A platform where users can exchange skills, discover learning opportunities and participate in a skill-points-based ecosystem.
+[**↗ View Repository**](https://github.com/garvitmalik-123/Cloud-Vault-Enterprise-Storage-Application)
 
-* User profiles and skill management
-* Course marketplace and enrollment
-* Skill-points wallet and transaction workflows
-* Backend APIs with authentication and authorization
+</td>
+<td width="50%" valign="top">
 
-**Tech:** Java 21 · Spring Boot · MongoDB · JWT · REST APIs
+### 🔄 Skill Swap
 
-[View Repository →](https://github.com/garvitmalik-123/Skill-Swap)
+**Skill Exchange Platform**
+
+A platform for exchanging skills, discovering courses, and managing skill-point transactions.
+
+- User profiles and skill management
+- Course marketplace and enrollment
+- Skill-points wallet
+- Authenticated backend APIs
+
+**Stack:** Java 21 · Spring Boot · MongoDB · JWT
+
+[**↗ View Repository**](https://github.com/garvitmalik-123/Skill-Swap)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ☕ Velvet Bean Cafe
 
-A modern café application combining an elegant frontend with backend services for menu and ordering workflows.
+**Cafe Ordering Application**
 
-* Responsive React interface
-* Spring Boot backend
-* MongoDB integration
-* Stripe test-mode checkout integration
+A modern café application combining a responsive interface with backend ordering workflows.
 
-**Tech:** Java · Spring Boot · React · MongoDB · Stripe
+- Responsive React interface
+- Spring Boot backend
+- MongoDB integration
+- Stripe test-mode checkout
 
-[View Repository →](https://github.com/garvitmalik-123/VelvetBean-Cafe)
+**Stack:** Java · Spring Boot · React · MongoDB · Stripe
 
----
+[**↗ View Repository**](https://github.com/garvitmalik-123/VelvetBean-Cafe)
 
-## 📊 GitHub Statistics
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitmalik-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### ⚡ What's Next?
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=garvitmalik-123&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+**Backend & System Design**
 
----
+Focused on building more production-oriented backend systems.
 
-## 🧩 LeetCode
+- Event-driven architecture
+- Reliable asynchronous processing
+- Distributed systems fundamentals
+- Scalable API design
 
-<p align="center">
-  <a href="https://leetcode.com/u/Garvitmalik-123/">
-    <img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/garvitmalik-123/garvitmalik-123/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=garvitmalik-123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitmalik-123&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=garvitmalik-123&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 
 ---
 
-## 💡 Developer Mindset
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Garvitmalik-123/">
+<img src="https://leetcard.jacoblin.cool/Garvitmalik-123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Statistics" />
+</a>
+
+**Practice. Improve. Repeat.**
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/garvitmalik-123/garvitmalik-123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 💡 My Developer Mindset
 
 ```java
 public class DeveloperJourney {
@@ -187,13 +264,14 @@ public class DeveloperJourney {
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm interested in backend engineering, software architecture, open-source projects and learning how scalable systems are built.
+### 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/garvitmalik-123">GitHub</a> •
-  <a href="https://linkedin.com/in/garvit-malik-517ab4425/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/Garvitmalik-123/">LeetCode</a> •
-  <a href="mailto:garvitmalik275@gmail.com">Email</a>
-</p>
+**Interested in backend engineering, system design, open source, and building scalable applications.**
+
+[GitHub](https://github.com/garvitmalik-123) · [LinkedIn](https://linkedin.com/in/garvit-malik-517ab4425/) · [LeetCode](https://leetcode.com/u/Garvitmalik-123/) · [Email](mailto:garvitmalik275@gmail.com)
+
+*“Great software is built one thoughtful decision at a time.”*
+
+</div>
